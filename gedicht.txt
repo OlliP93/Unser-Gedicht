@@ -5,6 +5,6 @@ Grün
 Blau
 Gelb
 Magenta
-variante grün
+variante violett
 
 Sind alles tolle Farben.
